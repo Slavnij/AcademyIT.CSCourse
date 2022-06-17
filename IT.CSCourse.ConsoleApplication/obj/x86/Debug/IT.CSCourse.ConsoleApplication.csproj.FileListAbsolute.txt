@@ -1,0 +1,5 @@
+E:\Labfiles\Lab 1\Ex1\Starter\IT.CSCourse\IT.CSCourse.ConsoleApplication\bin\Debug\IT.CSCourse.ConsoleApplication.exe
+E:\Labfiles\Lab 1\Ex1\Starter\IT.CSCourse\IT.CSCourse.ConsoleApplication\bin\Debug\IT.CSCourse.ConsoleApplication.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\IT.CSCourse\IT.CSCourse.ConsoleApplication\obj\x86\Debug\IT.CSCourse.ConsoleApplication.exe
+E:\Labfiles\Lab 1\Ex1\Starter\IT.CSCourse\IT.CSCourse.ConsoleApplication\obj\x86\Debug\IT.CSCourse.ConsoleApplication.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\IT.CSCourse\IT.CSCourse.ConsoleApplication\bin\Debug\DataFile.txt
