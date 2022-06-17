@@ -1,0 +1,12 @@
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\bin\Debug\IT.CSCourse.WPFApplication.exe
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\bin\Debug\IT.CSCourse.WPFApplication.pdb
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\obj\x86\Debug\IT.CSCourse.WPFApplication_MarkupCompile.cache
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\obj\x86\Debug\IT.CSCourse.WPFApplication.g.resources
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\obj\x86\Debug\IT.CSCourse.WPFApplication.Properties.Resources.resources
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\obj\x86\Debug\IT.CSCourse.WPFApplication.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\obj\x86\Debug\IT.CSCourse.WPFApplication.exe
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\obj\x86\Debug\IT.CSCourse.WPFApplication.pdb
+E:\Labfiles\Lab 1\Ex2\Starter\IT.CSCourse\IT.CSCourse.WPFApplication\bin\Debug\DataFile.txt
