@@ -1,0 +1,11 @@
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\bin\Debug\IT.CSCourse.IntegerToBinary.exe
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\bin\Debug\IT.CSCourse.IntegerToBinary.pdb
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\obj\x86\Debug\IT.CSCourse.IntegerToBinary_MarkupCompile.cache
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\obj\x86\Debug\IT.CSCourse.IntegerToBinary.g.resources
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\obj\x86\Debug\IT.CSCourse.IntegerToBinary.Properties.Resources.resources
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\obj\x86\Debug\IT.CSCourse.IntegerToBinary.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\obj\x86\Debug\IT.CSCourse.IntegerToBinary.exe
+E:\Labfiles\Lab 2\Ex2\Starter\IT.CSCourse\IT.CSCourse.IntegerToBinary\obj\x86\Debug\IT.CSCourse.IntegerToBinary.pdb
