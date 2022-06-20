@@ -1,9 +1,0 @@
-E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Release\Module 5 Unit Test Project.dll
-E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Release\Module 5 Unit Test Project.pdb
-E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Release\FileEditor.exe
-E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Release\FileEditor.pdb
-E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Release\FileEditor_Accessor.exe
-E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\bin\Release\FileEditor_Accessor.pdb
-E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\obj\Release\Editor Unit Test Project.csprojResolveAssemblyReference.cache
-E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\obj\Release\Module 5 Unit Test Project.dll
-E:\Labfiles\Lab 5\Ex1\Starter\Editor Unit Test Project\obj\Release\Module 5 Unit Test Project.pdb
